@@ -2,7 +2,7 @@
 
 ## Resumo
 
-O projeto `Bank` foi desenvolvido como um exercício prático do autoestudo ponderado de implementação e teste de um sistema de gerenciamento de contas bancárias em C#. Utilizando o .NET Framework e o Visual Studio, o projeto foca na criação de uma classe `BankAccount` que oferece funcionalidades básicas como crédito e débito, além de garantir que as operações sejam realizadas de forma segura e dentro das regras de negócio estabelecidas.
+O projeto `Bank` foi desenvolvido como um exercício prático do autoestudo ponderado para implementação e teste de um sistema de gerenciamento de contas bancárias em C#. Utilizando o .NET Framework e o Visual Studio, o projeto foca na criação de uma classe `BankAccount` que oferece funcionalidades básicas como crédito e débito, além de garantir que as operações sejam realizadas de forma segura e dentro das regras de negócio estabelecidas.
 
 ## Tecnologia Utilizada
 
